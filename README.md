@@ -1,1 +1,1 @@
-# Quiz-Program
+This is a Quiz program in which there are 3 sets of paper each including 5 Questions and the user have to select one of the three sets and have to answer the Questions. If the user gives 4 Answer's right from the 5 Questions. He/She wins else losses.
